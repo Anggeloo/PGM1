@@ -1,4 +1,4 @@
-# PGM1 PHP project: Hello World
+# PGM1 PHP - Hello World
 
 ## 📖 Description
 
@@ -32,7 +32,7 @@ php -v
 
 1. Make sure you have a web server installed.
 
-2.Place the PGM1.php file in the root directory of your server.
+2. Place the PGM1.php file in the root directory of your server.
 
 3. Access your browser and open the corresponding URL.
 
